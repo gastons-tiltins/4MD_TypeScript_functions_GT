@@ -1,4 +1,4 @@
-# TypeScript function and Types assignment
+# TypeScript Functions and Types assignment
 
 Instructions:
 
