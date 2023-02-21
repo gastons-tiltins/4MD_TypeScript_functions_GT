@@ -1,5 +1,14 @@
-# TypeScript Assignments
+# TypeScript function and Types assignment
 
-### `npm i`
+Instructions:
 
-Check **scripts.ts** file.
+```
+npm i
+```
+
+```
+cd src
+```
+```
+npx ts-node scripts.ts
+```
